@@ -8,3 +8,5 @@
 ## Solution
 
 > Solution is based upon the concept of Recursion. For full explanations download [This](https://github.com/sankalp21/Classic-Cookie-Challenge/blob/master/Solution.key) file.
+
+![Image](https://raw.githubusercontent.com/sankalp21/Classic-Cookie-Challenge/master/recursion.png)
